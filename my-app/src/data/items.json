@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Brokoli Çorbası",
+    "imgUrl": "https://picsum.photos/id/1/200/300",
+    "recipe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi morbi tempus iaculis urna id. Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque. Lorem mollis aliquam ut porttitor leo a diam. Ac placerat vestibulum lectus mauris ultrices. Interdum velit euismod in pellentesque massa placerat. Turpis egestas maecenas pharetra convallis posuere morbi leo urna molestie. Mi bibendum neque egestas congue quisque egestas diam in. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Ullamcorper a lacus vestibulum sed. Aliquam eleifend mi in nulla posuere. Sit amet mattis vulputate enim nulla."
+  },
+  {
+    "id": 2,
+    "name": "Kuru Fasülye",
+    "imgUrl": "https://picsum.photos/id/2/200/300",
+    "recipe": "Massa massa ultricies mi quis hendrerit dolor magna eget. Arcu vitae elementum curabitur vitae. Nisl pretium fusce id velit ut. Tortor vitae purus faucibus ornare suspendisse sed nisi. Tempus urna et pharetra pharetra massa massa. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Ligula ullamcorper malesuada proin libero nunc. Sed libero enim sed faucibus turpis in eu mi. Lectus mauris ultrices eros in cursus turpis massa tincidunt. Nibh tellus molestie nunc non blandit massa enim nec dui. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae. Nunc id cursus metus aliquam. Et tortor consequat id porta nibh venenatis cras. Sit amet facilisis magna etiam tempor orci eu. Nunc non blandit massa enim nec dui nunc mattis enim. Vitae aliquet nec ullamcorper sit. Nunc sed id semper risus in hendrerit. Blandit turpis cursus in hac habitasse platea dictumst."
+  },
+  {
+    "id": 3,
+    "name": "Pilav",
+    "imgUrl": "https://picsum.photos/id/3/200/300",
+    "recipe": "Facilisi morbi tempus iaculis urna id volutpat lacus. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Euismod lacinia at quis risus sed. Sagittis aliquam malesuada bibendum arcu vitae. Orci a scelerisque purus semper eget duis. Aliquam faucibus purus in massa. Fermentum et sollicitudin ac orci phasellus egestas tellus. Et pharetra pharetra massa massa. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Velit aliquet sagittis id consectetur purus ut faucibus pulvinar. Elementum sagittis vitae et leo duis ut. Fringilla ut morbi tincidunt augue interdum velit euismod in. Placerat vestibulum lectus mauris ultrices eros in cursus. Vel pretium lectus quam id leo in vitae turpis massa. Lacus vestibulum sed arcu non odio euismod. Nullam eget felis eget nunc lobortis mattis aliquam faucibus purus. In pellentesque massa placerat duis ultricies lacus sed."
+  },
+  {
+    "id": 4,
+    "name": "Sütlaç",
+    "imgUrl": "https://picsum.photos/id/4/200/300",
+    "recipe": "Vitae tempus quam pellentesque nec nam aliquam sem et. Magna eget est lorem ipsum dolor sit. Amet venenatis urna cursus eget nunc scelerisque viverra mauris. A erat nam at lectus urna duis convallis convallis. Eu sem integer vitae justo eget magna fermentum. Viverra vitae congue eu consequat ac felis donec et odio. Congue nisi vitae suscipit tellus mauris. Dapibus ultrices in iaculis nunc sed augue lacus viverra. Vehicula ipsum a arcu cursus vitae congue. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Ornare suspendisse sed nisi lacus sed viverra."
+  }
+]

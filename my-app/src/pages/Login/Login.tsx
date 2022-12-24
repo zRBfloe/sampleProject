@@ -9,21 +9,13 @@ interface LoginState {
   isLoggedIn: boolean;
 }
 
-const initialState: LoginState = {
-  password: "",
-  username: "",
-  isLoading: false,
-  error: "",
-  isLoggedIn: false,
-};
-
 export default function Login() {
   const onSubmit = async (e: React.FormEvent<HTMLFormElement>) => {};
 
   return (
     <div className="App">
       <div className="login-container">
-        <form className="form" onSubmit={onSubmit}>
+        <form className="form" onSubmit={onSubmit} action="/ingridients">
           <p> Please Login!</p>
           <input
             type="text"
@@ -34,15 +26,15 @@ export default function Login() {
           />
           <input
             type="password"
-            id="psw"
-            name="psw"
             placeholder="password"
-            autoComplete="new-password"
+            // autoComplete="new-password"
             pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
             title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters"
             required
           ></input>
-          <button className="submit">Login In</button>
+          <a href="/ingridients">
+            <button className="submit">Login In</button>
+          </a>
         </form>
       </div>
     </div>

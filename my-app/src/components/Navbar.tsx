@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Container, Nav, Navbar as NavbarBs } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
-import "./Navbar.css";
+import "./component.css";
 
 export function Navbar() {
   return (
@@ -11,10 +11,10 @@ export function Navbar() {
           <Nav.Link to="/" as={NavLink}>
             Login
           </Nav.Link>
-          <Nav.Link to="/store" as={NavLink}>
+          <Nav.Link to="/ingridients" as={NavLink}>
             Ingredients
           </Nav.Link>
-          <Nav.Link to="/about" as={NavLink}>
+          <Nav.Link to="/recipe" as={NavLink}>
             Recipe
           </Nav.Link>
         </Nav>

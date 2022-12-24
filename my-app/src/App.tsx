@@ -2,21 +2,20 @@ import React from "react";
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import { Container } from "react-bootstrap";
-import { Home } from "./pages/Home";
-import { Store } from "./pages/Store";
-import { About } from "./pages/About";
 import { Navbar } from "./components/Navbar";
 import Login from "./pages/Login/Login";
+import { Recipe } from "./pages/Recipe";
+import Ingridients from "./pages/Ingridients/Ingridients";
 
-function App() {
+export function App() {
   return (
     <>
       <Navbar />
       <Container className="mb-4">
         <Routes>
           <Route path="/" element={<Login />} />
-          <Route path="/store" element={<Store />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/ingridients" element={<Ingridients />} />
+          <Route path="/recipe" element={<Recipe />} />
         </Routes>
       </Container>
     </>

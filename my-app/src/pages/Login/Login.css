@@ -1,7 +1,7 @@
 .App {
     text-align: center;
     display: flex;
-    align-content: center;
+    /* align-content: center; */
     justify-content: center;
     margin-top: 100px;
   }
@@ -25,13 +25,25 @@
     margin-top: 0;
   }
   
+  button, input, optgroup, select, textarea {
+    margin: 10px !important;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
   input {
-    margin: 15px 0;
+    margin: 10px;
     padding: 10px;
   }
   
   .submit {
     padding: 10px;
+    
+  }
+
+  a {
+    display:contents
   }
   
   .error {
